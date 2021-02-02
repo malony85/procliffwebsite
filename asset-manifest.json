@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/procliffwebsite/static/css/main.bef4f037.chunk.css",
+    "main.js": "/procliffwebsite/static/js/main.2af5bd3d.chunk.js",
+    "main.js.map": "/procliffwebsite/static/js/main.2af5bd3d.chunk.js.map",
+    "runtime-main.js": "/procliffwebsite/static/js/runtime-main.7857df56.js",
+    "runtime-main.js.map": "/procliffwebsite/static/js/runtime-main.7857df56.js.map",
+    "static/js/2.b9c19764.chunk.js": "/procliffwebsite/static/js/2.b9c19764.chunk.js",
+    "static/js/2.b9c19764.chunk.js.map": "/procliffwebsite/static/js/2.b9c19764.chunk.js.map",
+    "index.html": "/procliffwebsite/index.html",
+    "static/css/main.bef4f037.chunk.css.map": "/procliffwebsite/static/css/main.bef4f037.chunk.css.map",
+    "static/js/2.b9c19764.chunk.js.LICENSE.txt": "/procliffwebsite/static/js/2.b9c19764.chunk.js.LICENSE.txt",
+    "static/media/2.a7204c10.jpg": "/procliffwebsite/static/media/2.a7204c10.jpg",
+    "static/media/3.0784f9e0.jpg": "/procliffwebsite/static/media/3.0784f9e0.jpg",
+    "static/media/card1.e90ff7f8.jpg": "/procliffwebsite/static/media/card1.e90ff7f8.jpg",
+    "static/media/card2.b9dc09cf.jpg": "/procliffwebsite/static/media/card2.b9dc09cf.jpg",
+    "static/media/card3.4a4a2527.jpg": "/procliffwebsite/static/media/card3.4a4a2527.jpg",
+    "static/media/card4.d739cff3.jpg": "/procliffwebsite/static/media/card4.d739cff3.jpg",
+    "static/media/cloudapp.b58c4287.jpg": "/procliffwebsite/static/media/cloudapp.b58c4287.jpg",
+    "static/media/Dropdown.css": "/procliffwebsite/static/media/dev1.6b5b8e3d.jpeg",
+    "static/media/consultingImg.dac0be01.jpg": "/procliffwebsite/static/media/consultingImg.dac0be01.jpg",
+    "static/media/contactus.eab489f9.jpg": "/procliffwebsite/static/media/contactus.eab489f9.jpg",
+    "static/media/App.css": "/procliffwebsite/static/media/whyusbanner.ee141a37.jpg",
+    "static/media/dbapp.26a48959.jpg": "/procliffwebsite/static/media/dbapp.26a48959.jpg",
+    "static/media/dev.b7f47ece.jpg": "/procliffwebsite/static/media/dev.b7f47ece.jpg",
+    "static/media/devHome2.6fb08879.jpg": "/procliffwebsite/static/media/devHome2.6fb08879.jpg",
+    "static/media/HeroSection.css": "/procliffwebsite/static/media/home3.ebc84a9a.jpg",
+    "static/media/mobileapp1.143a0232.jpg": "/procliffwebsite/static/media/mobileapp1.143a0232.jpg",
+    "static/media/webapps1.064d41e3.jpg": "/procliffwebsite/static/media/webapps1.064d41e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7857df56.js",
+    "static/js/2.b9c19764.chunk.js",
+    "static/css/main.bef4f037.chunk.css",
+    "static/js/main.2af5bd3d.chunk.js"
+  ]
+}
