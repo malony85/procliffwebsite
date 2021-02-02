@@ -1,0 +1,153 @@
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+  }
+  
+  .hero-container {
+    background: url('../images/home3.jpg') center center/cover no-repeat; 
+    height: 85vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+  }
+
+  
+  .heroStyleh1 {
+    color: #fff;
+    font-size: 75px;
+    margin-top: 20px;
+
+  }
+
+  .homestyle {
+    margin-top: 8px;
+    margin-left: 60px;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+
+  .homestyle1 {
+    margin-top: 8px;
+    margin-left: 500px;
+    margin-right: 100px;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+
+
+  @media screen and (max-width: 960px) {
+    .heroStyleh1 {
+      font-size: 65px;
+      margin-top: -150px;
+    }
+
+    .homestyle {
+      margin-top: 8px;
+      margin-left: 40px;
+      color: #fff;
+      font-size: 20px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    }
+  
+    .homestyle1 {
+      margin-top: 8px;
+      margin-left: 250px;
+      margin-right: 10px;
+      color: #fff;
+      font-size: 12px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .heroStyleh1 {
+      font-size: 50px;
+      margin-top: -100px;
+    }
+
+    .homestyle {
+      margin-top: 8px;
+      margin-left: 40px;
+      color: #fff;
+      font-size: 20px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    }
+  
+    .homestyle1 {
+      margin-top: 8px;
+      margin-left: 250px;
+      margin-right: 10px;
+      color: #fff;
+      font-size: 12px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    }
+  }
+  
+  
+  .pstyle {
+    margin-top: 8px;
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+
+
+  .hero-btn-outline {
+    background-color: transparent;
+    color: #000;
+    padding: 8px 20px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+  }
+
+   
+  .hero-btns {
+    margin-top: 32px;
+
+  }
+  
+  .hero-btns .btn {
+    margin: 6px;
+    color: #fff;
+
+  }
+  
+  .fa-play-circle {
+    margin-left: 4px;
+  }
+  
+    
+.buttonStyle {
+  background-color: #1f8ee0;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius : 10px;
+  width: 20%;
+}
+
+.buttonStyle:hover {
+  opacity: 0.8;
+}
+  
+  
